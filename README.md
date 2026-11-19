@@ -1,4 +1,4 @@
-# ZACKARIA DEVELOPER — Zakariya Abdisalam
+# ZAKARIYA DEVELOPER — Zakariya Abdisalam
 
 A responsive static portfolio for Zakariya Abdisalam, built with HTML, CSS and JavaScript. Brand tagline: “Turning Ideas Into Digital Solutions.”
 
